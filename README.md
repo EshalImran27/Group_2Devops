@@ -15,3 +15,5 @@ Pablo
 
 mvn clean install
 java -jar target/seMethods-1.0.jar
+
+![workflow](https://github.com/EshalImran27/Group_2Devops/actions/workflows/main.yml/badge.svg)
