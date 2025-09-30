@@ -20,4 +20,4 @@ java -jar target/seMethods-1.0.jar
 
 [![LICENSE](https://img.shields.io/github/license/EshalImran27/Group_2Devops.svg?style=flat-square)](https://github.com/EshalImran27/Group_2Devops/blob/master/LICENSE)
 
-[![Releases](https://img.shields.io/github/release/EshalImran27/Group_2Devops/all.svg?style=flat-square)](https://github.com/EshalImran27/devops/releases)
+[![Releases](https://img.shields.io/github/release/EshalImran27/Group_2Devops/all.svg?style=flat-square)](https://github.com/EshalImran27/Group_2Devops/releases)
