@@ -21,3 +21,7 @@ java -jar target/seMethods-1.0.jar
 [![LICENSE](https://img.shields.io/github/license/EshalImran27/Group_2Devops.svg?style=flat-square)](https://github.com/EshalImran27/Group_2Devops/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/EshalImran27/Group_2Devops/all.svg?style=flat-square)](https://github.com/EshalImran27/Group_2Devops/releases)
+
+# DevOps
+! [Github Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/<Eshallmran27>/<Group_2Devops>/<A%20workflow%20for%20my%20Hello%20World%20App>/<branch=develop?style=flat-square>
+)
