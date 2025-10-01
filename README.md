@@ -21,6 +21,3 @@ java -jar target/seMethods-1.0.jar
 [![LICENSE](https://img.shields.io/github/license/EshalImran27/Group_2Devops.svg?style=flat-square)](https://github.com/EshalImran27/Group_2Devops/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/EshalImran27/Group_2Devops/all.svg?style=flat-square)](https://github.com/EshalImran27/Group_2Devops/releases)
-
-# DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/EshalImran27/Group_2Devops/main.yml?branch=develop&style=flat-square)
